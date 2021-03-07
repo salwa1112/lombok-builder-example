@@ -1,2 +1,2 @@
 # lombok-builder-example
-Lombok Example
+Lombok Example 2
